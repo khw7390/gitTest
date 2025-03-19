@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 master.txt입니다
+=======
+kim에서 쓰는 master.txt
+>>>>>>> kim
